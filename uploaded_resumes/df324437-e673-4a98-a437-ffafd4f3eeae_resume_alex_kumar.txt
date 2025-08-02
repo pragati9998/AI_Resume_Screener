@@ -1,0 +1,4 @@
+Alex Kumar
+DevOps Engineer experienced in CI/CD pipelines, Docker, Kubernetes, and AWS.
+Familiar with Jenkins and Git.
+Contact: alex.kumar@example.com

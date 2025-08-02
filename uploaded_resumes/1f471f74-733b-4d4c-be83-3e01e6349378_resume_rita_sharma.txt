@@ -1,0 +1,4 @@
+Rita Sharma
+Frontend Developer skilled in JavaScript, React, HTML, and CSS.
+Worked on multiple web applications and UI/UX design.
+Contact: rita.sharma@example.com

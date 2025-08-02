@@ -1,0 +1,4 @@
+Jane Smith
+Data Scientist with expertise in Python, SQL, Machine Learning, and Data Visualization.
+Experience with TensorFlow and AWS.
+Contact: jane.smith@example.com
