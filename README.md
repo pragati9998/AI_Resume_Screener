@@ -21,4 +21,32 @@ An AI-powered resume screening tool that intelligently matches candidate resumes
 - **Libraries**: `sentence-transformers`, `scikit-learn`, `pdfminer.six`, `pandas`
 
 
+## ⚙️ Getting Started
+
+Follow these steps to run the project locally on your machine.
+
+```bash
+# Clone the repository
+git clone https://github.com/pragati9998/AI_Resume_Screener.git
+cd AI_Resume_Screener
+
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment (choose the command for your OS)
+
+# Linux/macOS:
+source venv/bin/activate
+
+# Windows (PowerShell):
+.\venv\Scripts\Activate.ps1
+
+# Windows (Command Prompt):
+venv\Scripts\activate.bat
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+python -m streamlit run app/main.py
 
